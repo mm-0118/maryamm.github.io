@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
   /* identities runthrough */
   const identities = [
     "a physicist", "an artist", "a cultural theorist", "a programmer",
-    "a visual artist", "a writer", "a researcher", "an art critic",
+    "a writer", "a researcher", "an art critic",
     "a poet", "a daydreamer", "an engineer"
   ];
   const identitySpan = document.querySelector(".identities");
