@@ -111,12 +111,12 @@ a:hover {
     margin-top: 0px;
     font-size: 20px;
     padding-top: 10px;
+
 }
 
-.blogPosts .list-item:hover {
+.blogPosts li:hover {
     font-style: italic;
 }
-
 
 .blogPost {
     width: 60%;
@@ -127,4 +127,5 @@ a:hover {
     color: black;
     padding-top: 10px;
     clear: right;
+    font-size: 23px;
 }
